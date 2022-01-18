@@ -1,0 +1,47 @@
+.post {
+    margin: 0  auto;
+    margin-top: 30px;
+    width: 640px;
+    height: 811px;
+    left: 400px;
+    top: 324px;
+
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+}
+
+.post:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 1px black;
+}
+
+.post p {
+    margin: 0;
+}
+
+.post-icon {
+    width: 36px;
+    height: 36px;
+}
+
+.img-post {
+    width: 638px;
+    height: 638px;
+}
+
+.post-like img {
+    width: 32px;
+    height: 30px;
+}
+
+.post-name, .like-counter {
+    font-weight: bold;
+}
+
+.like-counter {
+    margin-left: 16px!important;
+}
+
+.post-descr {
+    margin-left: 16px!important;
+}

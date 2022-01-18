@@ -1,0 +1,21 @@
+.header {
+    background: #FFFFFF;
+    margin: 0 auto;
+    max-width: 640px;
+    height: 100px;
+}
+
+.icons {
+    max-width: 210px;
+}
+
+.btn-nav {
+    border: none;
+    background-color: #fff;
+    padding: 0;
+}
+
+.img-container button {
+    border: none;
+    background-color: #fff;
+}
